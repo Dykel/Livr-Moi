@@ -1,5 +1,7 @@
 # Livré-Moi
-LivréMoi Mauritius, delivers all your household needs to your door-step in just few hours!
+LivréMoi Mauritius - Buy at local Shop online, Track your order till your doorstep.
+![]1.jpg
+
 
 Available in both mainland Mauritius and Rodrigues Island.
 
