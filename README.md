@@ -41,4 +41,5 @@ We deliver our promises and the first promise, we make is that of delivering on 
 
 LivréMoi Mauritius, delivering your household happiness.
 
-License to: Joseph Jonathan Collet
+Dev: Joseph Jonathan Collet
+Email: dykelaway@gmail.com
